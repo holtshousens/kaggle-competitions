@@ -1,2 +1,2 @@
 # kaggle-competitions
-Repository will include some of the Kaggle competitions I have / will attempt. 
+Some Kaggle competitions all in using R.
